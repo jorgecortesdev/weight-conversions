@@ -2,7 +2,7 @@
 
 namespace JorgeCortesDev\WeightConversions;
 
-class WeightConversionsClass
+class Weight
 {
     protected float $kilograms;
 
